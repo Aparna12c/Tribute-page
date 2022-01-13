@@ -1,0 +1,44 @@
+#formula
+{
+color: green;
+font-size: 25px;
+font-style: italic;
+}
+
+img
+{
+	position: relative;
+	bottom: 20px;
+}
+figcaption
+{
+	font-size: 15px;
+	position: relative;
+	top: -20px;
+	font-weight: bold;
+
+}
+
+#subtitle
+{
+	font-weight: bold;
+	position: relative;
+	top: -9px;
+	font-size: 19px;
+}
+h1{
+	color:    #2E8BC0;
+	font-size: 36px;
+}
+
+span{
+	color: #2E8BC0;
+	font-style: italic;
+}
+h3
+{
+	color: purple;
+}
+body{
+	background-color: #C0C0C0;
+}
